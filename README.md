@@ -40,12 +40,6 @@ Exercises:
     - MARKS: 3/3.
     
     
-CWK1:
-    - Implement a Java Version of the popular word game, Wordle.
-    
-    - PDF of CWK1 = [cwk1.pdf](https://github.com/Slinky0812/COMP1711-Object-Oriented-Programming/files/9741432/cwk1.pdf)
+CWK1: Implement a Java Version of the popular word game, Wordle. PDF of CWK1 = [cwk1.pdf](https://github.com/Slinky0812/COMP1711-Object-Oriented-Programming/files/9741432/cwk1.pdf)
 
-CWK2:
-    - Write some classes that could be used to simulate games of Poker.
-    
-    - PDF of CWK2 = [cwk2.pdf](https://github.com/Slinky0812/COMP1711-Object-Oriented-Programming/files/9741436/cwk2.pdf)
+CWK2: Write some classes that could be used to simulate games of Poker. PDF of CWK2 = [cwk2.pdf](https://github.com/Slinky0812/COMP1711-Object-Oriented-Programming/files/9741436/cwk2.pdf)
